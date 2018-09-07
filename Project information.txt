@@ -1,0 +1,8 @@
+Database name : test1db
+
+Admin Credentials : 	username - admin 
+			password - admin123
+
+Uploading images will be working only with Microsoft Edge.
+
+Make sure to minimize other windows. Otherwise message boxes will be shown under the browser window.
